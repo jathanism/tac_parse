@@ -1,0 +1,656 @@
+Feb  2 18:40:27	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[7732]	cmd=login
+Feb  2 18:40:27	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[7732]	cmd=clear alarm 0 <cr>
+Feb  2 18:40:27	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[7732]	cmd=logout
+Feb  2 18:40:47	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[7740]	cmd=login
+Feb  2 18:40:47	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[7740]	cmd=set alarm red alarm-id 0small-msg <cr>
+Feb  2 18:40:47	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[7740]	cmd=logout
+Feb  2 18:40:47	192.168.0.202	jathan	ttyp1	192.168.0.10	start	task_id=1	service=shell	process*mgd[7741]	cmd=login
+Feb  2 18:41:01	192.168.0.202	jathan	ttyp1	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7741]	cmd=start shell <cr>
+Feb  2 18:41:38	192.168.0.202	jathan	ttyp1	192.168.0.10	stop	task_id=3	service=shell	process*mgd[7741]	cmd=configure exclusive <cr>
+Feb  2 18:41:41	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=22	service=shell	process*mgd[7377]	cmd=exit <cr>
+Feb  2 18:41:44	192.168.0.202	jathan	ttyp1	192.168.0.10	stop	task_id=4	service=shell	process*mgd[7741]	cmd=exit <cr>
+Feb  2 18:41:44	192.168.0.202	jathan	ttyp1	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=56	process*mgd[7741]	cmd=logout
+Feb  2 18:41:51	192.168.0.202	admin	ttyp1	192.168.0.10	start	task_id=1	service=shell	process*mgd[7749]	cmd=login
+Feb  2 18:41:52	192.168.0.202	admin	ttyp1	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7749]	cmd=exit <cr>
+Feb  2 18:41:52	192.168.0.202	admin	ttyp1	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=2	process*mgd[7749]	cmd=logout
+Feb  2 18:41:59	192.168.0.202	jathan	ttyp1	192.168.0.10	start	task_id=1	service=shell	process*mgd[7754]	cmd=login
+Feb  2 18:42:03	192.168.0.202	jathan	ttyp1	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7754]	cmd=quit <cr>
+Feb  2 18:42:03	192.168.0.202	jathan	ttyp1	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=4	process*mgd[7754]	cmd=logout
+Feb  2 18:42:29	192.168.0.202	jathan	ttyp1	192.168.0.10	start	task_id=1	service=shell	process*mgd[7759]	cmd=login
+Feb  2 18:42:55	192.168.0.202	jathan	ttyp1	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7759]	cmd=quit <cr>
+Feb  2 18:42:55	192.168.0.202	jathan	ttyp1	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=25	process*mgd[7759]	cmd=logout
+Feb  2 18:43:03	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=23	service=shell	process*mgd[7377]	cmd=configure <cr>
+Feb  2 18:43:05	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=24	service=shell	process*mgd[7377]	cmd=show system <cr>
+Feb  2 18:43:13	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=25	service=shell	process*mgd[7377]	cmd=show system <cr>
+Feb  2 18:44:48	192.168.0.202	rancid	ttyp1	192.168.0.10	start	task_id=1	service=shell	process*mgd[7767]	cmd=login
+Feb  2 18:45:45	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7767]	cmd=quit <cr>
+Feb  2 18:45:45	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=56	process*mgd[7767]	cmd=logout
+Feb  2 18:45:51	192.168.0.202	rancid	ttyp1	192.168.0.10	start	task_id=1	service=shell	process*mgd[7772]	cmd=login
+Feb  2 18:45:57	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7772]	cmd=start shell <cr>
+Feb  2 18:46:03	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=3	service=shell	process*mgd[7772]	cmd=exit <cr>
+Feb  2 18:46:03	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=12	process*mgd[7772]	cmd=logout
+Feb  2 18:46:40	192.168.0.202	rancid	ttyp1	192.168.0.10	start	task_id=1	service=shell	process*mgd[7780]	cmd=login
+Feb  2 18:46:59	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7780]	cmd=quit <cr>
+Feb  2 18:46:59	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=19	process*mgd[7780]	cmd=logout
+Feb  2 18:47:33	192.168.0.202	rancid	ttyp1	192.168.0.10	start	task_id=1	service=shell	process*mgd[7785]	cmd=login
+Feb  2 18:48:01	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7785]	cmd=show log messages <cr>
+Feb  2 18:48:19	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=3	service=shell	process*mgd[7785]	cmd=quit <cr>
+Feb  2 18:48:19	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=45	process*mgd[7785]	cmd=logout
+Feb  2 18:48:28	192.168.0.202	rancid	ttyp1	192.168.0.10	start	task_id=1	service=shell	process*mgd[7792]	cmd=login
+Feb  2 18:48:29	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7792]	cmd=configure <cr>
+Feb  2 18:48:30	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=3	service=shell	process*mgd[7792]	cmd=exit <cr>
+Feb  2 18:48:32	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=4	service=shell	process*mgd[7792]	cmd=start shell <cr>
+Feb  2 18:48:36	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=5	service=shell	process*mgd[7792]	cmd=quit <cr>
+Feb  2 18:48:36	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=8	process*mgd[7792]	cmd=logout
+Feb  2 18:50:14	192.168.0.202	rancid	ttyp1	192.168.0.10	start	task_id=1	service=shell	process*mgd[7806]	cmd=login
+Feb  2 18:51:09	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7806]	cmd=configure <cr>
+Feb  2 18:51:13	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=26	service=shell	process*mgd[7377]	cmd=exit <cr>
+Feb  2 18:51:14	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=27	service=shell	process*mgd[7377]	cmd=exit <cr>
+Feb  2 18:51:14	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=28	service=shell	elapsed_time=972	process*mgd[7377]	cmd=logout
+Feb  2 18:51:22	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=3	service=shell	process*mgd[7806]	cmd=quit <cr>
+Feb  2 18:51:23	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=4	service=shell	process*mgd[7806]	cmd=quit <cr>
+Feb  2 18:51:23	192.168.0.202	rancid	ttyp1	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=69	process*mgd[7806]	cmd=logout
+Feb  2 18:51:31	192.168.0.202	rancid	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[7811]	cmd=login
+Feb  2 18:51:33	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7811]	cmd=quit <cr>
+Feb  2 18:51:33	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=3	process*mgd[7811]	cmd=logout
+Feb  2 18:52:06	192.168.0.202	rancid	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[7816]	cmd=login
+Feb  2 18:55:14	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7816]	cmd=quit <cr>
+Feb  2 18:55:14	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=188	process*mgd[7816]	cmd=logout
+Feb  2 18:55:22	192.168.0.202	rancid	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[7824]	cmd=login
+Feb  2 18:55:49	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7824]	cmd=quit <cr>
+Feb  2 18:55:49	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=26	process*mgd[7824]	cmd=logout
+Feb  2 18:59:28	192.168.0.202	rancid	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[7832]	cmd=login
+Feb  2 19:01:24	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7832]	cmd=quit <cr>
+Feb  2 19:01:24	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=116	process*mgd[7832]	cmd=logout
+Feb  2 19:04:08	192.168.0.202	rancid	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[7837]	cmd=login
+Feb  2 19:04:15	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7837]	cmd=exit <cr>
+Feb  2 19:04:15	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=7	process*mgd[7837]	cmd=logout
+Feb  2 19:04:56	192.168.0.202	rancid	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[7848]	cmd=login
+Feb  2 19:05:26	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7848]	cmd=quit <cr>
+Feb  2 19:05:26	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=30	process*mgd[7848]	cmd=logout
+Feb  2 19:06:13	192.168.0.202	rancid	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[7853]	cmd=login
+Feb  2 19:11:03	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[7853]	cmd=quit <cr>
+Feb  2 19:11:03	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=290	process*mgd[7853]	cmd=logout
+Feb  4 15:04:21	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10044]	cmd=login
+Feb  4 15:04:25	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10044]	cmd=show cli authorization <cr>
+Feb  4 15:04:38	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10044]	cmd=configure <cr>
+Feb  4 15:04:39	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10044]	cmd=quit <cr>
+Feb  4 15:06:03	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10044]	cmd=exit <cr>
+Feb  4 15:06:03	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=101	process*mgd[10044]	cmd=logout
+Feb  4 15:06:42	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10055]	cmd=login
+Feb  4 15:06:50	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10055]	cmd=show cli authorization <cr>
+Feb  4 15:07:56	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10055]	cmd=quit <cr>
+Feb  4 15:07:56	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=73	process*mgd[10055]	cmd=logout
+Feb  4 15:08:09	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10060]	cmd=login
+Feb  4 15:08:12	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10060]	cmd=show cli authorization <cr>
+Feb  4 15:09:43	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10060]	cmd=quit <cr>
+Feb  4 15:09:43	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=94	process*mgd[10060]	cmd=logout
+Feb  4 15:09:49	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10068]	cmd=login
+Feb  4 15:09:52	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10068]	cmd=show cli authorization <cr>
+Feb  4 15:09:56	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10068]	cmd=configure <cr>
+Feb  4 15:09:57	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10068]	cmd=quit <cr>
+Feb  4 15:10:18	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10068]	cmd=show log messages <cr>
+Feb  4 15:10:32	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10068]	cmd=quit <cr>
+Feb  4 15:10:32	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=44	process*mgd[10068]	cmd=logout
+Feb  4 15:10:53	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10075]	cmd=login
+Feb  4 15:10:58	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10075]	cmd=show cli authorization <cr>
+Feb  4 15:11:02	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10075]	cmd=show log messages <cr>
+Feb  4 15:11:16	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10075]	cmd=configure <cr>
+Feb  4 15:11:17	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10075]	cmd=quit <cr>
+Feb  4 15:11:35	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10075]	cmd=quit <cr>
+Feb  4 15:11:35	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=42	process*mgd[10075]	cmd=logout
+Feb  4 15:11:40	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10082]	cmd=login
+Feb  4 15:11:46	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10082]	cmd=show cli authorization <cr>
+Feb  4 15:11:50	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10082]	cmd=show log messages <cr>
+Feb  4 15:12:00	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10082]	cmd=show configuration <cr>
+Feb  4 15:12:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10082]	cmd=quit <cr>
+Feb  4 15:12:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=24	process*mgd[10082]	cmd=logout
+Feb  4 15:12:20	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10137]	cmd=login
+Feb  4 15:12:22	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10137]	cmd=show configuration system <cr>
+Feb  4 15:12:42	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10137]	cmd=configure exclusive <cr>
+Feb  4 15:13:43	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10137]	cmd=delete system login user remote class <cr>
+Feb  4 15:13:43	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10137]	cmd=delete: [system login user remote class] 
+Feb  4 15:13:44	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10137]	cmd=commit check <cr>
+Feb  4 15:13:48	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[10137]	cmd=quit <cr>
+Feb  4 15:13:50	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=8	service=shell	process*mgd[10137]	cmd=rollback: /config/juniper.conf 
+Feb  4 15:13:52	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=9	service=shell	process*mgd[10137]	cmd=set: [system root-authentication encrypted-password]
+Feb  4 15:13:52	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=10	service=shell	process*mgd[10137]	cmd=set: [system tacplus-server 192.168.0.10 secret]
+Feb  4 15:13:52	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=11	service=shell	process*mgd[10137]	cmd=set: [system accounting destination tacplus server 192.168.0.10 secret]
+Feb  4 15:13:52	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=12	service=shell	process*mgd[10137]	cmd=set: [system login user admin authentication encrypted-password]
+Feb  4 15:14:03	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=13	service=shell	process*mgd[10137]	cmd=quit <cr>
+Feb  4 15:14:03	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=104	process*mgd[10137]	cmd=logout
+Feb  4 15:14:51	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10221]	cmd=login
+Feb  4 15:14:54	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10221]	cmd=show log messages <cr>
+Feb  4 15:17:14	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10221]	cmd=quit <cr>
+Feb  4 15:17:14	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=142	process*mgd[10221]	cmd=logout
+Feb  4 15:17:23	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10228]	cmd=login
+Feb  4 15:17:30	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10228]	cmd=show cli authorization <cr>
+Feb  4 15:17:43	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10228]	cmd=show log messages <cr>
+Feb  4 15:17:52	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10228]	cmd=configure <cr>
+Feb  4 15:17:53	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10228]	cmd=quit <cr>
+Feb  4 15:19:15	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10228]	cmd=show log aaa <cr>
+Feb  4 15:19:19	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[10228]	cmd=configure <cr>
+Feb  4 15:19:48	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=8	service=shell	process*mgd[10228]	cmd=set: [system accounting traceoptions file] <unconfigured> -> "tac_plus"
+Feb  4 15:19:48	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=9	service=shell	process*mgd[10228]	cmd=set system accounting traceoptions file tac_plus <cr>
+Feb  4 15:19:50	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=10	service=shell	process*mgd[10228]	cmd=commit check <cr>
+Feb  4 15:20:01	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=11	service=shell	process*mgd[10228]	cmd=show system accounting <cr>
+Feb  4 15:20:24	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=12	service=shell	process*mgd[10228]	cmd=commit and-quit <cr>
+Feb  4 15:20:45	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[10580]	cmd=login
+Feb  4 15:20:45	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[10580]	cmd=clear alarm 0 <cr>
+Feb  4 15:20:45	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[10580]	cmd=logout
+Feb  4 15:20:56	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=13	service=shell	process*mgd[10228]	cmd=show cli authorization <cr>
+Feb  4 15:20:59	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=14	service=shell	process*mgd[10228]	cmd=quit <cr>
+Feb  4 15:20:59	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=216	process*mgd[10228]	cmd=logout
+Feb  4 15:21:03	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[10584]	cmd=login
+Feb  4 15:21:03	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[10584]	cmd=set alarm red alarm-id 0small-msg <cr>
+Feb  4 15:21:03	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=1	process*mgd[10584]	cmd=logout
+Feb  4 15:22:55	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10589]	cmd=login
+Feb  4 15:22:58	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10589]	cmd=show cli authorization <cr>
+Feb  4 15:23:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10589]	cmd=show log tac_plus <cr>
+Feb  4 15:23:07	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10589]	cmd=show log messages <cr>
+Feb  4 15:23:23	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10589]	cmd=configure <cr>
+Feb  4 15:23:24	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10589]	cmd=quit <cr>
+Feb  4 15:27:20	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[10589]	cmd=quit <cr>
+Feb  4 15:27:20	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=264	process*mgd[10589]	cmd=logout
+Feb  4 15:27:27	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10602]	cmd=login
+Feb  4 15:27:56	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10602]	cmd=quit <cr>
+Feb  4 15:27:56	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=29	process*mgd[10602]	cmd=logout
+Feb  4 15:28:01	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10607]	cmd=login
+Feb  4 15:28:58	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10607]	cmd=quit <cr>
+Feb  4 15:28:58	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=58	process*mgd[10607]	cmd=logout
+Feb  4 15:29:04	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10612]	cmd=login
+Feb  4 15:29:29	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10612]	cmd=quit <cr>
+Feb  4 15:29:29	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=25	process*mgd[10612]	cmd=logout
+Feb  4 15:29:34	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10620]	cmd=login
+Feb  4 15:30:29	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10620]	cmd=quit <cr>
+Feb  4 15:30:29	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=55	process*mgd[10620]	cmd=logout
+Feb  4 15:30:34	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10625]	cmd=login
+Feb  4 15:33:54	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10625]	cmd=quit <cr>
+Feb  4 15:33:54	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=200	process*mgd[10625]	cmd=logout
+Feb  4 15:34:03	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10630]	cmd=login
+Feb  4 15:40:11	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10630]	cmd=quit <cr>
+Feb  4 15:40:11	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=367	process*mgd[10630]	cmd=logout
+Feb  4 15:40:16	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10644]	cmd=login
+Feb  4 15:40:47	192.168.0.254	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10644]	cmd=quit <cr>
+Feb  4 15:40:47	192.168.0.254	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=30	process*mgd[10644]	cmd=logout
+Feb  4 15:52:27	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10659]	cmd=login
+Feb  4 15:52:33	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10659]	cmd=show cli authorization <cr>
+Feb  4 15:52:36	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10659]	cmd=configure <cr>
+Feb  4 15:52:37	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10659]	cmd=quit <cr>
+Feb  4 15:52:40	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10659]	cmd=show log tac_plus <cr>
+Feb  4 15:52:57	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10659]	cmd=show log messages <cr>
+Feb  4 15:53:28	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[10659]	cmd=show log message | match view <cr>
+Feb  4 15:53:33	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=8	service=shell	process*mgd[10659]	cmd=show log message | match view-configuration <cr>
+Feb  4 15:53:37	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=9	service=shell	process*mgd[10659]	cmd=show log messages | match view-configuration <cr>
+Feb  4 15:53:48	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=10	service=shell	process*mgd[10659]	cmd=configure exclusive <cr>
+Feb  4 15:57:34	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=11	service=shell	process*mgd[10659]	cmd=show system <cr>
+Feb  4 15:58:13	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=12	service=shell	process*mgd[10659]	cmd=show system accounting <cr>
+Feb  4 15:58:25	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=13	service=shell	process*mgd[10659]	cmd=quit <cr>
+Feb  4 15:58:57	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=14	service=shell	process*mgd[10659]	cmd=show log security.log <cr>
+Feb  4 15:59:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=15	service=shell	process*mgd[10659]	cmd=show log u <cr>
+Feb  4 15:59:45	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=16	service=shell	process*mgd[10659]	cmd=show configuration system login <cr>
+Feb  4 16:02:39	192.168.0.254	jathan	ttyp0	192.168.0.10	stop	task_id=17	service=shell	process*mgd[10659]	cmd=quit <cr>
+Feb  4 16:02:39	192.168.0.254	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=613	process*mgd[10659]	cmd=logout
+Feb  4 16:03:43	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10729]	cmd=login
+Feb  4 16:03:45	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10729]	cmd=show cli authorization <cr>
+Feb  4 16:03:49	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10729]	cmd=show log messages <cr>
+Feb  4 16:03:55	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10729]	cmd=configure <cr>
+Feb  4 16:03:56	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10729]	cmd=quit <cr>
+Feb  4 16:03:57	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10729]	cmd=show log messages <cr>
+Feb  4 16:04:00	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[10729]	cmd=show cli authorization <cr>
+Feb  4 16:07:36	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=8	service=shell	process*mgd[10729]	cmd=quit <cr>
+Feb  4 16:07:36	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=234	process*mgd[10729]	cmd=logout
+Feb  4 16:07:41	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10744]	cmd=login
+Feb  4 16:07:44	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10744]	cmd=show cli authorization <cr>
+Feb  4 16:07:50	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10744]	cmd=configure <cr>
+Feb  4 16:07:51	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10744]	cmd=quit <cr>
+Feb  4 16:09:32	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10744]	cmd=configure <cr>
+Feb  4 16:09:34	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10744]	cmd=quit <cr>
+Feb  4 16:09:35	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[10744]	cmd=quit <cr>
+Feb  4 16:09:35	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=114	process*mgd[10744]	cmd=logout
+Feb  4 16:09:41	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10752]	cmd=login
+Feb  4 16:10:22	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=41	process*mgd[10752]	cmd=logout
+Feb  4 16:10:27	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10757]	cmd=login
+Feb  4 16:10:32	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10757]	cmd=show cli authorization <cr>
+Feb  4 16:10:39	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10757]	cmd=show log messages <cr>
+Feb  4 16:10:47	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10757]	cmd=show cli authorization <cr>
+Feb  4 16:10:50	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10757]	cmd=configure <cr>
+Feb  4 16:11:45	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10757]	cmd=quit <cr>
+Feb  4 16:11:46	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[10757]	cmd=show cli authorization <cr>
+Feb  4 16:11:47	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=8	service=shell	process*mgd[10757]	cmd=show cli authorization <cr>
+Feb  4 16:12:52	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=9	service=shell	process*mgd[10757]	cmd=quit <cr>
+Feb  4 16:12:52	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=145	process*mgd[10757]	cmd=logout
+Feb  4 16:12:58	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10764]	cmd=login
+Feb  4 16:13:00	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10764]	cmd=show cli authorization <cr>
+Feb  4 16:13:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10764]	cmd=configure <cr>
+Feb  4 16:13:11	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10764]	cmd=show <cr>
+Feb  4 16:13:16	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10764]	cmd=quit <cr>
+Feb  4 16:13:50	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10764]	cmd=show cli authorization <cr>
+Feb  4 16:13:52	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[10764]	cmd=show cli authorization <cr>
+Feb  4 16:14:13	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=8	service=shell	process*mgd[10764]	cmd=quit <cr>
+Feb  4 16:14:13	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=75	process*mgd[10764]	cmd=logout
+Feb  4 16:14:18	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10817]	cmd=login
+Feb  4 16:14:22	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10817]	cmd=show cli authorization <cr>
+Feb  4 16:15:59	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10817]	cmd=quit <cr>
+Feb  4 16:15:59	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=102	process*mgd[10817]	cmd=logout
+Feb  4 16:16:07	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10825]	cmd=login
+Feb  4 16:16:11	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10825]	cmd=show cli authorization <cr>
+Feb  4 16:16:13	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10825]	cmd=configure <cr>
+Feb  4 16:16:14	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10825]	cmd=quit <cr>
+Feb  4 16:16:22	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10825]	cmd=show log messages <cr>
+Feb  4 16:16:40	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10825]	cmd=quit <cr>
+Feb  4 16:16:40	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=32	process*mgd[10825]	cmd=logout
+Feb  4 16:16:45	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10832]	cmd=login
+Feb  4 16:16:45	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10832]	cmd=quit <cr>
+Feb  4 16:16:45	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=1	process*mgd[10832]	cmd=logout
+Feb  4 16:17:07	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10837]	cmd=login
+Feb  4 16:17:10	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10837]	cmd=show cli authorization <cr>
+Feb  4 16:17:12	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10837]	cmd=configure <cr>
+Feb  4 16:17:13	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10837]	cmd=quit <cr>
+Feb  4 16:17:23	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10837]	cmd=show log messages | last <cr>
+Feb  4 16:17:26	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10837]	cmd=quit <cr>
+Feb  4 16:17:26	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=20	process*mgd[10837]	cmd=logout
+Feb  4 16:19:39	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10850]	cmd=login
+Feb  4 16:19:41	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10850]	cmd=show cli authorization <cr>
+Feb  4 16:19:43	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10850]	cmd=configure <cr>
+Feb  4 16:19:44	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10850]	cmd=quit <cr>
+Feb  4 16:20:01	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10850]	cmd=quit <cr>
+Feb  4 16:20:01	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=21	process*mgd[10850]	cmd=logout
+Feb  4 16:20:06	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10857]	cmd=login
+Feb  4 16:20:07	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10857]	cmd=show cli authorization <cr>
+Feb  4 16:20:09	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10857]	cmd=show cli authorization <cr>
+Feb  4 16:20:10	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10857]	cmd=configure <cr>
+Feb  4 16:20:15	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10857]	cmd=run start shell <cr>
+Feb  4 16:20:18	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10857]	cmd=exit <cr>
+Feb  4 16:20:19	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[10857]	cmd=exit <cr>
+Feb  4 16:20:19	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=13	process*mgd[10857]	cmd=logout
+Feb  4 16:20:52	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10866]	cmd=login
+Feb  4 16:20:55	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10866]	cmd=show cli authorization <cr>
+Feb  4 16:20:57	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10866]	cmd=configure <cr>
+Feb  4 16:20:57	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10866]	cmd=quit <cr>
+Feb  4 16:20:58	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10866]	cmd=quit <cr>
+Feb  4 16:20:58	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=7	process*mgd[10866]	cmd=logout
+Feb  4 16:21:56	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[10871]	cmd=login
+Feb  4 16:21:56	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[10871]	cmd=configure exclusive <cr>
+Feb  4 16:21:59	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[10871]	cmd=show system login <cr>
+Feb  4 16:23:01	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[10871]	cmd=set: [system login class view-only permissions view] 
+Feb  4 16:23:01	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[10871]	cmd=set: [system login class view-only permissions view-configuration] 
+Feb  4 16:23:01	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[10871]	cmd=set system login class view-only permissions [ view view-configuration ] <cr>
+Feb  4 16:23:06	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[10871]	cmd=set system login class view-only permissions [ view view-configuration ] <cr>
+Feb  4 16:23:27	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=8	service=shell	process*mgd[10871]	cmd=show system login <cr>
+Feb  4 16:23:53	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=9	service=shell	process*mgd[10871]	cmd=set: [system login user readonly class] <unconfigured> -> "read-only"
+Feb  4 16:23:53	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=10	service=shell	process*mgd[10871]	cmd=set system login user readonly class read-only <cr>
+Feb  4 16:23:56	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=11	service=shell	process*mgd[10871]	cmd=commit and-quit <cr>
+Feb  4 16:24:17	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[11205]	cmd=login
+Feb  4 16:24:17	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[11205]	cmd=clear alarm 0 <cr>
+Feb  4 16:24:17	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[11205]	cmd=logout
+Feb  4 16:24:28	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=12	service=shell	process*mgd[10871]	cmd=quit <cr>
+Feb  4 16:24:28	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=152	process*mgd[10871]	cmd=logout
+Feb  4 16:24:33	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11215]	cmd=login
+Feb  4 16:24:34	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11215]	cmd=show cli authorization <cr>
+Feb  4 16:24:36	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[11217]	cmd=login
+Feb  4 16:24:36	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[11217]	cmd=set alarm red alarm-id 0small-msg <cr>
+Feb  4 16:24:36	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=1	process*mgd[11217]	cmd=logout
+Feb  4 16:24:49	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11215]	cmd=exit <cr>
+Feb  4 16:24:49	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=17	process*mgd[11215]	cmd=logout
+Feb  4 16:24:55	192.168.0.202	admin	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11222]	cmd=login
+Feb  4 16:24:56	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11222]	cmd=configure exclusive <cr>
+Feb  4 16:24:59	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11222]	cmd=show system login <cr>
+Feb  4 16:25:18	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[11222]	cmd=set: [system login user readonly class] "read-only" -> "view-only"
+Feb  4 16:25:18	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[11222]	cmd=set system login user readonly class view-only <cr>
+Feb  4 16:25:19	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[11222]	cmd=commit and-quit <cr>
+Feb  4 16:25:39	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[11555]	cmd=login
+Feb  4 16:25:39	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[11555]	cmd=clear alarm 0 <cr>
+Feb  4 16:25:39	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[11555]	cmd=logout
+Feb  4 16:25:40	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[11222]	cmd=quit <cr>
+Feb  4 16:25:40	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=44	process*mgd[11222]	cmd=logout
+Feb  4 16:25:47	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11561]	cmd=login
+Feb  4 16:25:52	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11561]	cmd=show cli authorization <cr>
+Feb  4 16:25:54	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11561]	cmd=quit <cr>
+Feb  4 16:25:54	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=7	process*mgd[11561]	cmd=logout
+Feb  4 16:25:58	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[11564]	cmd=login
+Feb  4 16:25:58	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[11564]	cmd=set alarm red alarm-id 0small-msg <cr>
+Feb  4 16:25:58	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[11564]	cmd=logout
+Feb  4 16:27:28	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11569]	cmd=login
+Feb  4 16:27:30	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11569]	cmd=show cli authorization <cr>
+Feb  4 16:27:49	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11569]	cmd=quit <cr>
+Feb  4 16:27:49	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=22	process*mgd[11569]	cmd=logout
+Feb  4 16:29:13	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11574]	cmd=login
+Feb  4 16:29:15	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11574]	cmd=show cli authorization <cr>
+Feb  4 16:30:05	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11574]	cmd=start shell <cr>
+Feb  4 16:30:12	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[11574]	cmd=show configuration system <cr>
+Feb  4 16:30:48	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[11574]	cmd=quit <cr>
+Feb  4 16:30:48	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=95	process*mgd[11574]	cmd=logout
+Feb  4 16:30:53	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11634]	cmd=login
+Feb  4 16:30:58	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11634]	cmd=show cli authorization <cr>
+Feb  4 16:31:23	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11634]	cmd=show configuration system login <cr>
+Feb  4 16:33:00	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[11634]	cmd=quit <cr>
+Feb  4 16:33:00	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=127	process*mgd[11634]	cmd=logout
+Feb  4 16:33:05	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11687]	cmd=login
+Feb  4 16:36:41	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11687]	cmd=quit <cr>
+Feb  4 16:36:41	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=216	process*mgd[11687]	cmd=logout
+Feb  4 16:36:47	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11698]	cmd=login
+Feb  4 16:40:55	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11698]	cmd=quit <cr>
+Feb  4 16:40:55	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=248	process*mgd[11698]	cmd=logout
+Feb  4 16:41:00	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11706]	cmd=login
+Feb  4 16:41:03	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11706]	cmd=show cli authorization <cr>
+Feb  4 16:41:44	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11706]	cmd=show configuration system login <cr>
+Feb  4 16:43:25	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[11706]	cmd=show cli authorization <cr>
+Feb  4 16:44:15	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[11706]	cmd=show cli authorization <cr>
+Feb  4 16:44:31	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[11706]	cmd=quit <cr>
+Feb  4 16:44:31	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=212	process*mgd[11706]	cmd=logout
+Feb  4 16:44:39	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11786]	cmd=login
+Feb  4 16:44:54	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11786]	cmd=show cli authorization <cr>
+Feb  4 16:46:34	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11786]	cmd=quit <cr>
+Feb  4 16:46:34	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=115	process*mgd[11786]	cmd=logout
+Feb  4 16:46:44	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11791]	cmd=login
+Feb  4 16:46:48	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11791]	cmd=show cli authorization <cr>
+Feb  4 16:48:03	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11791]	cmd=quit <cr>
+Feb  4 16:48:03	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=78	process*mgd[11791]	cmd=logout
+Feb  4 16:48:07	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11796]	cmd=login
+Feb  4 16:48:12	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11796]	cmd=show cli authorization <cr>
+Feb  4 16:48:31	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11796]	cmd=quit <cr>
+Feb  4 16:48:31	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=23	process*mgd[11796]	cmd=logout
+Feb  4 16:48:35	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11801]	cmd=login
+Feb  4 16:48:38	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11801]	cmd=show cli authorization <cr>
+Feb  4 16:49:25	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11801]	cmd=quit <cr>
+Feb  4 16:49:25	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=50	process*mgd[11801]	cmd=logout
+Feb  4 16:49:31	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11812]	cmd=login
+Feb  4 16:49:34	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11812]	cmd=show cli authorization <cr>
+Feb  4 16:49:59	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11812]	cmd=show cli authorization <cr>
+Feb  4 16:50:00	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[11812]	cmd=quit <cr>
+Feb  4 16:50:00	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=30	process*mgd[11812]	cmd=logout
+Feb  4 16:50:05	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11817]	cmd=login
+Feb  4 16:50:08	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11817]	cmd=show cli authorization <cr>
+Feb  4 16:50:31	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11817]	cmd=quit <cr>
+Feb  4 16:50:31	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=25	process*mgd[11817]	cmd=logout
+Feb  4 16:50:36	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[11822]	cmd=login
+Feb  4 16:50:41	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[11822]	cmd=show cli authorization <cr>
+Feb  4 16:50:45	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[11822]	cmd=configure <cr>
+Feb  4 16:50:46	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[11822]	cmd=quit <cr>
+Feb  4 16:50:59	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[11822]	cmd=configure exclusive <cr>
+Feb  4 16:52:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[11822]	cmd=set: [system login user remote class] "full-priv" -> "read-only"
+Feb  4 16:52:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[11822]	cmd=set system login user remote class read-only <cr>
+Feb  4 16:52:05	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=8	service=shell	process*mgd[11822]	cmd=commit and-quit <cr>
+Feb  4 16:52:30	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[12155]	cmd=login
+Feb  4 16:52:30	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[12155]	cmd=clear alarm 0 <cr>
+Feb  4 16:52:30	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[12155]	cmd=logout
+Feb  4 16:52:35	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=9	service=shell	process*mgd[11822]	cmd=quit <cr>
+Feb  4 16:52:35	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=119	process*mgd[11822]	cmd=logout
+Feb  4 16:52:49	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[12163]	cmd=login
+Feb  4 16:52:49	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[12163]	cmd=set alarm red alarm-id 0small-msg <cr>
+Feb  4 16:52:49	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[12163]	cmd=logout
+Feb  4 16:52:50	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12164]	cmd=login
+Feb  4 16:52:54	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12164]	cmd=show cli authorization <cr>
+Feb  4 16:53:30	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12164]	cmd=quit <cr>
+Feb  4 16:53:30	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=40	process*mgd[12164]	cmd=logout
+Feb  4 16:53:35	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12169]	cmd=login
+Feb  4 16:53:36	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12169]	cmd=show cli authorization <cr>
+Feb  4 16:53:42	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12169]	cmd=quit <cr>
+Feb  4 16:53:42	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=6	process*mgd[12169]	cmd=logout
+Feb  4 16:53:47	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12174]	cmd=login
+Feb  4 16:53:49	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12174]	cmd=show cli authorization <cr>
+Feb  4 16:59:00	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12174]	cmd=quit <cr>
+Feb  4 16:59:00	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=313	process*mgd[12174]	cmd=logout
+Feb  4 16:59:05	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12182]	cmd=login
+Feb  4 16:59:06	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12182]	cmd=show cli authorization <cr>
+Feb  4 16:59:16	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12182]	cmd=quit <cr>
+Feb  4 16:59:16	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=11	process*mgd[12182]	cmd=logout
+Feb  4 16:59:23	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12187]	cmd=login
+Feb  4 16:59:30	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12187]	cmd=show cli authorization <cr>
+Feb  4 16:59:37	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12187]	cmd=show cli authorization <cr>
+Feb  4 17:03:01	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[12187]	cmd=quit <cr>
+Feb  4 17:03:01	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=219	process*mgd[12187]	cmd=logout
+Feb  4 17:06:32	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12201]	cmd=login
+Feb  4 17:06:32	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12201]	cmd=show cli authorization <cr>
+Feb  4 17:06:39	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12201]	cmd=configure exclusive <cr>
+Feb  4 17:06:44	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[12201]	cmd=show system login <cr>
+Feb  4 17:07:12	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[12201]	cmd=set: [system login class remote permissions view] 
+Feb  4 17:07:12	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=6	service=shell	process*mgd[12201]	cmd=set: [system login class remote permissions view-configuration] 
+Feb  4 17:07:12	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=7	service=shell	process*mgd[12201]	cmd=set system login class remote permissions [ view view-configuration ] <cr>
+Feb  4 17:07:16	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=8	service=shell	process*mgd[12201]	cmd=show system login <cr>
+Feb  4 17:07:29	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=9	service=shell	process*mgd[12201]	cmd=delete system login user readonly <cr>
+Feb  4 17:07:29	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=10	service=shell	process*mgd[12201]	cmd=delete: [system login user readonly] 
+Feb  4 17:07:43	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=11	service=shell	process*mgd[12201]	cmd=delete system login class view-only <cr>
+Feb  4 17:07:43	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=12	service=shell	process*mgd[12201]	cmd=delete: [system login class view-only] 
+Feb  4 17:07:48	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=13	service=shell	process*mgd[12201]	cmd=show system login <cr>
+Feb  4 17:23:49	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=14	service=shell	process*mgd[12201]	cmd=quit <cr>
+Feb  4 17:23:54	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=15	service=shell	process*mgd[12201]	cmd=show <cr>
+Feb  4 17:23:57	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=16	service=shell	process*mgd[12201]	cmd=show system login <cr>
+Feb  4 17:24:12	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=17	service=shell	process*mgd[12201]	cmd=commit check <cr>
+Feb  4 17:26:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=18	service=shell	process*mgd[12201]	cmd=commit and-quit <cr>
+Feb  4 17:26:25	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[12555]	cmd=login
+Feb  4 17:26:25	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[12555]	cmd=clear alarm 0 <cr>
+Feb  4 17:26:25	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[12555]	cmd=logout
+Feb  4 17:26:31	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=19	service=shell	process*mgd[12201]	cmd=configure exclusive <cr>
+Feb  4 17:26:39	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=20	service=shell	process*mgd[12201]	cmd=set: [system login user remote class] "read-only" -> "remote"
+Feb  4 17:26:39	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=21	service=shell	process*mgd[12201]	cmd=set system login user remote class remote <cr>
+Feb  4 17:26:42	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=22	service=shell	process*mgd[12201]	cmd=show system login <cr>
+Feb  4 17:26:43	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[12559]	cmd=login
+Feb  4 17:26:43	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[12559]	cmd=set alarm red alarm-id 0small-msg <cr>
+Feb  4 17:26:43	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[12559]	cmd=logout
+Feb  4 17:26:55	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=23	service=shell	process*mgd[12201]	cmd=set: [system login class remote idle-timeout] <unconfigured> -> "15"
+Feb  4 17:26:55	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=24	service=shell	process*mgd[12201]	cmd=set system login class remote idle-timeout 15 <cr>
+Feb  4 17:27:09	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=25	service=shell	process*mgd[12201]	cmd=show system login <cr>
+Feb  4 17:27:17	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=26	service=shell	process*mgd[12201]	cmd=commit and-quit <cr>
+Feb  4 17:27:37	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[12843]	cmd=login
+Feb  4 17:27:37	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[12843]	cmd=clear alarm 0 <cr>
+Feb  4 17:27:37	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[12843]	cmd=logout
+Feb  4 17:27:55	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[12847]	cmd=login
+Feb  4 17:27:55	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[12847]	cmd=set alarm red alarm-id 0small-msg <cr>
+Feb  4 17:27:56	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[12847]	cmd=logout
+Feb  4 17:28:24	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=27	service=shell	process*mgd[12201]	cmd=quit <cr>
+Feb  4 17:28:24	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=1313	process*mgd[12201]	cmd=logout
+Feb  4 17:28:31	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12852]	cmd=login
+Feb  4 17:28:32	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12852]	cmd=show cli authorization <cr>
+Feb  4 17:29:15	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12852]	cmd=quit <cr>
+Feb  4 17:29:15	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=44	process*mgd[12852]	cmd=logout
+Feb  4 17:29:27	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12860]	cmd=login
+Feb  4 17:29:29	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12860]	cmd=show cli authorization <cr>
+Feb  4 17:30:02	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12860]	cmd=quit <cr>
+Feb  4 17:30:02	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=34	process*mgd[12860]	cmd=logout
+Feb  4 17:31:42	192.168.0.202	admin	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12865]	cmd=login
+Feb  4 17:31:43	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12865]	cmd=show cli authorization <cr>
+Feb  4 17:31:46	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12865]	cmd=quit <cr>
+Feb  4 17:31:46	192.168.0.202	admin	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=5	process*mgd[12865]	cmd=logout
+Feb  4 17:44:27	192.168.0.202	rancid	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12882]	cmd=login
+Feb  4 17:44:28	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12882]	cmd=show cli authorization <cr>
+Feb  4 17:45:53	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12882]	cmd=show configuration system login <cr>
+Feb  4 17:51:05	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[12882]	cmd=quit <cr>
+Feb  4 17:51:05	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=397	process*mgd[12882]	cmd=logout
+Feb  4 17:51:12	192.168.0.202	rancid	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12941]	cmd=login
+Feb  4 17:51:12	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12941]	cmd=show cli authorization <cr>
+Feb  4 17:57:38	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12941]	cmd=quit <cr>
+Feb  4 17:57:38	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=386	process*mgd[12941]	cmd=logout
+Feb  4 17:57:46	192.168.0.202	rancid	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12949]	cmd=login
+Feb  4 17:57:49	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12949]	cmd=show cli authorization <cr>
+Feb  4 18:04:41	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12949]	cmd=quit <cr>
+Feb  4 18:04:41	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=415	process*mgd[12949]	cmd=logout
+Feb  4 18:22:17	192.168.0.202	rancid	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12977]	cmd=login
+Feb  4 18:22:19	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12977]	cmd=show cli authorization <cr>
+Feb  4 18:32:28	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[12977]	cmd=quit <cr>
+Feb  4 18:32:28	192.168.0.202	rancid	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=611	process*mgd[12977]	cmd=logout
+Feb  4 18:32:35	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[12988]	cmd=login
+Feb  4 18:32:37	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[12988]	cmd=quit <cr>
+Feb  4 18:32:37	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=2	process*mgd[12988]	cmd=logout
+Feb  4 22:30:17	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[13189]	cmd=login
+Feb  4 22:30:22	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[13189]	cmd=show cli authorization <cr>
+Feb  4 22:31:01	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[13189]	cmd=quit <cr>
+Feb  4 22:31:01	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=44	process*mgd[13189]	cmd=logout
+Feb  4 22:31:44	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[13194]	cmd=login
+Feb  4 22:31:49	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[13194]	cmd=quit <cr>
+Feb  4 22:31:49	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=5	process*mgd[13194]	cmd=logout
+Feb  5 12:29:22	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[13892]	cmd=login
+Feb  5 12:29:26	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[13892]	cmd=show cli authorization <cr>
+Feb  5 12:36:45	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[13892]	cmd=quit <cr>
+Feb  5 12:36:45	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=443	process*mgd[13892]	cmd=logout
+Feb  5 12:36:50	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[13909]	cmd=login
+Feb  5 12:36:57	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[13909]	cmd=show cli authorization <cr>
+Feb  5 12:37:53	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[13909]	cmd=quit <cr>
+Feb  5 12:37:53	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=63	process*mgd[13909]	cmd=logout
+Feb  5 12:38:21	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[13914]	cmd=login
+Feb  5 12:38:25	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[13914]	cmd=show cli authorization <cr>
+Feb  5 12:40:11	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[13914]	cmd=quit <cr>
+Feb  5 12:40:11	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=110	process*mgd[13914]	cmd=logout
+Feb  5 12:53:44	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[13931]	cmd=login
+Feb  5 12:53:49	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[13931]	cmd=show cli authorization <cr>
+Feb  5 12:53:59	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[13931]	cmd=show configuration system login <cr>
+Feb  5 12:54:32	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[13931]	cmd=quit <cr>
+Feb  5 12:54:32	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=48	process*mgd[13931]	cmd=logout
+Feb  5 12:54:38	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[13987]	cmd=login
+Feb  5 12:54:39	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[13987]	cmd=show cli authorization <cr>
+Feb  5 12:54:42	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[13987]	cmd=configure <cr>
+Feb  5 12:54:45	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[13987]	cmd=quit <cr>
+Feb  5 12:55:17	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=5	service=shell	process*mgd[13987]	cmd=quit <cr>
+Feb  5 12:55:17	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=39	process*mgd[13987]	cmd=logout
+Feb  6 16:06:15	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[15346]	cmd=login
+Feb  6 16:06:19	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[15346]	cmd=show configuration <cr>
+Feb  6 16:06:25	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[15346]	cmd=quit <cr>
+Feb  6 16:06:25	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=10	process*mgd[15346]	cmd=logout
+Feb  6 16:08:29	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[15399]	cmd=login
+Feb  6 16:08:33	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[15399]	cmd=quit <cr>
+Feb  6 16:08:33	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=4	process*mgd[15399]	cmd=logout
+Feb  6 16:08:53	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[15404]	cmd=login
+Feb  6 16:08:55	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[15404]	cmd=show configuration <cr>
+Feb  6 16:09:25	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[15404]	cmd=quit <cr>
+Feb  6 16:09:25	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=33	process*mgd[15404]	cmd=logout
+Feb 11 14:40:02	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[21348]	cmd=login
+Feb 11 14:40:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[21348]	cmd=show cli authorization <cr>
+Feb 11 14:40:15	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[21348]	cmd=show configuration system login <cr>
+Feb 11 14:40:30	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[21348]	cmd=quit <cr>
+Feb 11 14:40:30	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=28	process*mgd[21348]	cmd=logout
+Feb 11 14:45:33	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[21404]	cmd=login
+Feb 11 14:45:37	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[21404]	cmd=show configuration system <cr>
+Feb 11 14:46:41	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[21404]	cmd=quit <cr>
+Feb 11 14:46:41	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=68	process*mgd[21404]	cmd=logout
+Feb 24 14:21:17	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[36936]	cmd=login
+Feb 24 14:30:20	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[36936]	cmd=quit <cr>
+Feb 24 14:30:20	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=543	process*mgd[36936]	cmd=logout
+Feb 24 14:30:25	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[36944]	cmd=login
+Feb 24 14:30:27	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[36944]	cmd=quit <cr>
+Feb 24 14:30:27	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=2	process*mgd[36944]	cmd=logout
+Feb 24 14:30:59	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[36952]	cmd=login
+Feb 24 14:31:09	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[36952]	cmd=quit <cr>
+Feb 24 14:31:09	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=10	process*mgd[36952]	cmd=logout
+Feb 24 14:31:40	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[36957]	cmd=login
+Feb 24 14:31:58	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[36957]	cmd=quit <cr>
+Feb 24 14:31:58	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=18	process*mgd[36957]	cmd=logout
+Feb 24 14:32:02	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[36962]	cmd=login
+Feb 24 14:33:35	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[36962]	cmd=quit <cr>
+Feb 24 14:33:35	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=93	process*mgd[36962]	cmd=logout
+Feb 24 14:33:55	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[36969]	cmd=login
+Feb 24 14:34:46	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[36969]	cmd=quit <cr>
+Feb 24 14:34:46	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=51	process*mgd[36969]	cmd=logout
+Feb 24 14:34:51	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[36974]	cmd=login
+Feb 24 14:35:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[36974]	cmd=quit <cr>
+Feb 24 14:35:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=13	process*mgd[36974]	cmd=logout
+Feb 24 14:35:26	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[36979]	cmd=login
+Feb 24 14:35:30	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[36979]	cmd=show cli authorization <cr>
+Feb 24 14:35:42	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[36979]	cmd=quit <cr>
+Feb 24 14:35:42	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=16	process*mgd[36979]	cmd=logout
+Feb 24 14:37:09	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[36990]	cmd=login
+Feb 24 14:37:51	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[36990]	cmd=quit <cr>
+Feb 24 14:37:51	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=43	process*mgd[36990]	cmd=logout
+Feb 24 14:37:55	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[36995]	cmd=login
+Feb 24 14:37:58	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[36995]	cmd=show cli authorization <cr>
+Feb 24 14:38:08	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[36995]	cmd=quit <cr>
+Feb 24 14:38:08	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=13	process*mgd[36995]	cmd=logout
+Feb 24 14:40:06	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[37000]	cmd=login
+Feb 24 14:41:01	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[37000]	cmd=quit <cr>
+Feb 24 14:41:01	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=55	process*mgd[37000]	cmd=logout
+Feb 24 14:41:06	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[37008]	cmd=login
+Feb 24 14:41:35	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[37008]	cmd=quit <cr>
+Feb 24 14:41:35	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=29	process*mgd[37008]	cmd=logout
+Feb 24 14:42:16	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[37013]	cmd=login
+Feb 24 14:42:20	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[37013]	cmd=show cli authorization <cr>
+Feb 24 14:42:21	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[37013]	cmd=quit <cr>
+Feb 24 14:42:21	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=5	process*mgd[37013]	cmd=logout
+Feb 24 14:44:11	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[37018]	cmd=login
+Feb 24 14:44:23	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[37018]	cmd=show cli authorization <cr>
+Feb 24 14:45:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[37018]	cmd=quit <cr>
+Feb 24 14:45:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=53	process*mgd[37018]	cmd=logout
+Feb 24 14:45:09	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[37023]	cmd=login
+Feb 24 14:45:12	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[37023]	cmd=show cli authorization <cr>
+Feb 24 14:45:43	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[37023]	cmd=show configuration <cr>
+Feb 24 14:45:49	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=4	service=shell	process*mgd[37023]	cmd=quit <cr>
+Feb 24 14:45:49	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=40	process*mgd[37023]	cmd=logout
+Jun  3 16:00:09	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[4448]	cmd=login
+Jun  3 16:00:12	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[4448]	cmd=show cli authorization <cr>
+Jun  3 16:00:14	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[4448]	cmd=quit <cr>
+Jun  3 16:00:14	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=4	process*mgd[4448]	cmd=logout
+Jun  3 16:00:36	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[4453]	cmd=login
+Jun  3 16:00:37	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[4453]	cmd=show cli authorization <cr>
+Jun  3 16:02:02	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=86	process*mgd[4453]	cmd=logout
+Jun  3 16:05:30	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[4461]	cmd=login
+Jun  3 16:05:31	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[4461]	cmd=show cli authorization <cr>
+Jun  3 16:05:33	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[4461]	cmd=configure <cr>
+Jun  3 16:20:55	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=924	process*mgd[4461]	cmd=logout
+Jun  3 16:22:02	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[4480]	cmd=login
+Jun  3 16:22:03	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[4480]	cmd=show cli authorization <cr>
+Jun  3 16:22:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[4480]	cmd=quit <cr>
+Jun  3 16:22:04	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=2	process*mgd[4480]	cmd=logout
+Jun  3 16:22:20	192.168.0.202	jathan	ttyp0	192.168.0.10	start	task_id=1	service=shell	process*mgd[4485]	cmd=login
+Jun  3 16:22:21	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=2	service=shell	process*mgd[4485]	cmd=show cli authorization <cr>
+Jun  3 16:22:22	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=3	service=shell	process*mgd[4485]	cmd=quit <cr>
+Jun  3 16:22:22	192.168.0.202	jathan	ttyp0	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=2	process*mgd[4485]	cmd=logout
+Jun 29 13:44:54	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=3	service=shell	process*mgd[2811]	cmd=ping 192.168.0.10 <cr>
+Jun 29 13:45:00	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=4	service=shell	process*mgd[2811]	cmd=telnet 192.168.0.10 port 49 <cr>
+Jun 29 13:54:23	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=5	service=shell	elapsed_time=1702	process*mgd[2811]	cmd=logout
+Jun 29 14:51:12	192.168.0.202	root	ttyp0	192.168.0.64	start	task_id=1	service=shell	process*mgd[2983]	cmd=login
+Jun 29 14:51:12	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=2	service=shell	process*mgd[2983]	cmd=configure exclusive <cr>
+Jun 29 14:51:27	192.168.0.202	jathan	ttyp1	192.168.0.64	start	task_id=1	service=shell	process*mgd[2988]	cmd=login
+Jun 29 14:51:28	192.168.0.202	jathan	ttyp1	192.168.0.64	stop	task_id=2	service=shell	process*mgd[2988]	cmd=show cli authorization <cr>
+Jun 29 14:51:29	192.168.0.202	jathan	ttyp1	192.168.0.64	stop	task_id=3	service=shell	process*mgd[2988]	cmd=quit <cr>
+Jun 29 14:51:29	192.168.0.202	jathan	ttyp1	192.168.0.64	stop	task_id=1	service=shell	elapsed_time=2	process*mgd[2988]	cmd=logout
+Jun 29 14:53:59	192.168.0.202	jathan	ttyp1	192.168.0.64	start	task_id=1	service=shell	process*mgd[2993]	cmd=login
+Jun 29 14:54:01	192.168.0.202	jathan	ttyp1	192.168.0.64	stop	task_id=2	service=shell	process*mgd[2993]	cmd=show cli authorization <cr>
+Jun 29 14:54:02	192.168.0.202	jathan	ttyp1	192.168.0.64	stop	task_id=3	service=shell	process*mgd[2993]	cmd=quit <cr>
+Jun 29 14:54:02	192.168.0.202	jathan	ttyp1	192.168.0.64	stop	task_id=1	service=shell	elapsed_time=4	process*mgd[2993]	cmd=logout
+Jun 29 14:55:14	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=3	service=shell	process*mgd[2983]	cmd=set: [system login user jathan class] <unconfigured> -> "super-user"
+Jun 29 14:55:14	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=4	service=shell	process*mgd[2983]	cmd=set: [system login user jathan authentication ssh-rsa /* SECRET-DATA */] 
+Jun 29 14:55:14	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=5	service=shell	process*mgd[2983]	cmd=set system login user jathan class super-user authentication ssh-rsa /* SECRET-DATA */ <cr>
+Jun 29 14:55:19	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=6	service=shell	process*mgd[2983]	cmd=show | compare <cr>
+Jun 29 14:55:28	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=7	service=shell	process*mgd[2983]	cmd=commit <cr>
+Jun 29 14:55:49	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[3339]	cmd=login
+Jun 29 14:55:49	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[3339]	cmd=clear alarm 0 <cr>
+Jun 29 14:55:49	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[3339]	cmd=logout
+Jun 29 14:56:02	192.168.0.202	jathan	ttyp1	192.168.0.64	start	task_id=1	service=shell	process*mgd[3346]	cmd=login
+Jun 29 14:56:08	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[3348]	cmd=login
+Jun 29 14:56:08	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[3348]	cmd=set alarm red alarm-id 0small-msg <cr>
+Jun 29 14:56:08	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[3348]	cmd=logout
+Jun 29 14:56:09	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=8	service=shell	process*mgd[2983]	cmd=show system authentication-order <cr>
+Jun 29 14:56:19	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=9	service=shell	process*mgd[2983]	cmd=set system authentication-order [ tacplus password ] <cr>
+Jun 29 14:56:24	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=10	service=shell	process*mgd[2983]	cmd=show | compare <cr>
+Jun 29 14:56:32	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=11	service=shell	process*mgd[2983]	cmd=show system authentication-order <cr>
+Jun 29 14:56:49	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=12	service=shell	process*mgd[2983]	cmd=delete system authentication-order <cr>
+Jun 29 14:56:49	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=13	service=shell	process*mgd[2983]	cmd=delete: [system authentication-order] 
+Jun 29 14:56:56	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=14	service=shell	process*mgd[2983]	cmd=set: [system authentication-order tacplus] 
+Jun 29 14:56:56	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=15	service=shell	process*mgd[2983]	cmd=set: [system authentication-order password] 
+Jun 29 14:56:56	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=16	service=shell	process*mgd[2983]	cmd=set system authentication-order [ tacplus password ] <cr>
+Jun 29 14:56:58	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=17	service=shell	process*mgd[2983]	cmd=show | compare <cr>
+Jun 29 14:57:01	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=18	service=shell	process*mgd[2983]	cmd=commit <cr>
+Jun 29 14:57:03	192.168.0.202	jathan	ttyp1	192.168.0.64	stop	task_id=2	service=shell	process*mgd[3346]	cmd=quit <cr>
+Jun 29 14:57:03	192.168.0.202	jathan	ttyp1	192.168.0.64	stop	task_id=1	service=shell	elapsed_time=61	process*mgd[3346]	cmd=logout
+Jun 29 14:57:21	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[3633]	cmd=login
+Jun 29 14:57:21	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[3633]	cmd=clear alarm 0 <cr>
+Jun 29 14:57:21	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[3633]	cmd=logout
+Jun 29 14:57:31	192.168.0.202	jathan	ttyp1	192.168.0.64	start	task_id=1	service=shell	process*mgd[3639]	cmd=login
+Jun 29 14:57:38	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=19	service=shell	process*mgd[2983]	cmd=show system authentication-order <cr>
+Jun 29 14:57:39	192.168.0.202	root	non-tty	Unknown host - non-tty	start	task_id=1	service=shell	process*mgd[3642]	cmd=login
+Jun 29 14:57:39	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=2	service=shell	process*mgd[3642]	cmd=set alarm red alarm-id 0small-msg <cr>
+Jun 29 14:57:39	192.168.0.202	root	non-tty	Unknown host - non-tty	stop	task_id=1	service=shell	elapsed_time=0	process*mgd[3642]	cmd=logout
+Jun 29 14:58:37	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=20	service=shell	process*mgd[2983]	cmd=show system <cr>
+Jun 29 14:59:04	192.168.0.202	jathan	ttyp1	192.168.0.64	stop	task_id=2	service=shell	process*mgd[3639]	cmd=show cli authorization <cr>
+Jun 29 14:59:27	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=21	service=shell	process*mgd[2983]	cmd=quit <cr>
+Jun 29 14:59:30	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=22	service=shell	process*mgd[2983]	cmd=show cli authorization <cr>
+Jun 29 14:59:38	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=23	service=shell	process*mgd[2983]	cmd=show authentication-whitelist <cr>
+Jun 29 14:59:43	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=24	service=shell	process*mgd[2983]	cmd=show system users <cr>
+Jun 29 14:59:53	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=25	service=shell	process*mgd[2983]	cmd=show configuration system <cr>
+Jun 29 15:00:02	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=26	service=shell	process*mgd[2983]	cmd=show log tac_plus <cr>
+Jun 29 15:04:05	192.168.0.202	jathan	ttyp2	192.168.0.10	start	task_id=1	service=shell	process*mgd[3657]	cmd=login
+Jun 29 15:04:09	192.168.0.202	jathan	ttyp2	192.168.0.10	stop	task_id=2	service=shell	process*mgd[3657]	cmd=show cli authorization <cr>
+Jun 29 15:04:28	192.168.0.202	jathan	ttyp2	192.168.0.10	stop	task_id=3	service=shell	process*mgd[3657]	cmd=show configuration system <cr>
+Jun 29 15:38:28	192.168.0.202	jathan	ttyp2	192.168.0.10	stop	task_id=4	service=shell	process*mgd[3657]	cmd=quit <cr>
+Jun 29 15:38:28	192.168.0.202	jathan	ttyp2	192.168.0.10	stop	task_id=1	service=shell	elapsed_time=2063	process*mgd[3657]	cmd=logout
+Jun 29 17:49:15	192.168.0.202	root	ttyp0	192.168.0.64	stop	task_id=1	service=shell	elapsed_time=10682	process*mgd[2983]	cmd=logout
+Jun 29 17:49:15	192.168.0.202	jathan	ttyp1	192.168.0.64	stop	task_id=1	service=shell	elapsed_time=10304	process*mgd[3639]	cmd=logout
